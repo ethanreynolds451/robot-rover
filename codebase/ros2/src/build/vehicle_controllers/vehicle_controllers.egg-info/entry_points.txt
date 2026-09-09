@@ -1,0 +1,3 @@
+[console_scripts]
+ir_control = vehicle_controllers.ir_control:main
+

@@ -1,0 +1,24 @@
+[1.630s] Invoking command in '/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_data_manager': PYTHONPATH=/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_data_manager/prefix_override:/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_data_manager/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_data_manager/build --no-deps install_data
+[1.784s] running develop
+[1.838s] running egg_info
+[1.838s] creating vehicle_data_manager.egg-info
+[1.839s] writing vehicle_data_manager.egg-info/PKG-INFO
+[1.839s] writing dependency_links to vehicle_data_manager.egg-info/dependency_links.txt
+[1.839s] writing entry points to vehicle_data_manager.egg-info/entry_points.txt
+[1.839s] writing requirements to vehicle_data_manager.egg-info/requires.txt
+[1.841s] writing top-level names to vehicle_data_manager.egg-info/top_level.txt
+[1.841s] writing manifest file 'vehicle_data_manager.egg-info/SOURCES.txt'
+[1.865s] reading manifest file 'vehicle_data_manager.egg-info/SOURCES.txt'
+[1.866s] writing manifest file 'vehicle_data_manager.egg-info/SOURCES.txt'
+[1.896s] running build_ext
+[1.896s] Creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_data_manager/lib/python3.8/site-packages/site.py
+[1.898s] Creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_data_manager/lib/python3.8/site-packages/vehicle-data-manager.egg-link (link to .)
+[1.899s] 
+[1.899s] Installed /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_data_manager
+[1.899s] running install_data
+[1.899s] creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_data_manager/share/ament_index
+[1.899s] creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_data_manager/share/ament_index/resource_index
+[1.899s] creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_data_manager/share/ament_index/resource_index/packages
+[1.900s] copying resource/vehicle_data_manager -> /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_data_manager/share/ament_index/resource_index/packages
+[1.900s] copying package.xml -> /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_data_manager/share/vehicle_data_manager
+[1.964s] Invoked command in '/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_data_manager' returned '0': PYTHONPATH=/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_data_manager/prefix_override:/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_data_manager/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_data_manager/build --no-deps install_data

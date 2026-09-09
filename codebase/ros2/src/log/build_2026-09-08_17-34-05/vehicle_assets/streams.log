@@ -1,0 +1,24 @@
+[1.608s] Invoking command in '/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_assets': PYTHONPATH=/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_assets/prefix_override:/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_assets/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_assets/build --no-deps install_data
+[1.734s] running develop
+[1.803s] running egg_info
+[1.803s] creating vehicle_assets.egg-info
+[1.803s] writing vehicle_assets.egg-info/PKG-INFO
+[1.803s] writing dependency_links to vehicle_assets.egg-info/dependency_links.txt
+[1.803s] writing entry points to vehicle_assets.egg-info/entry_points.txt
+[1.804s] writing requirements to vehicle_assets.egg-info/requires.txt
+[1.804s] writing top-level names to vehicle_assets.egg-info/top_level.txt
+[1.808s] writing manifest file 'vehicle_assets.egg-info/SOURCES.txt'
+[1.840s] reading manifest file 'vehicle_assets.egg-info/SOURCES.txt'
+[1.840s] writing manifest file 'vehicle_assets.egg-info/SOURCES.txt'
+[1.874s] running build_ext
+[1.874s] Creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_assets/lib/python3.8/site-packages/site.py
+[1.876s] Creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_assets/lib/python3.8/site-packages/vehicle-assets.egg-link (link to .)
+[1.877s] 
+[1.877s] Installed /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_assets
+[1.877s] running install_data
+[1.877s] creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_assets/share/ament_index
+[1.877s] creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_assets/share/ament_index/resource_index
+[1.877s] creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_assets/share/ament_index/resource_index/packages
+[1.878s] copying resource/vehicle_assets -> /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_assets/share/ament_index/resource_index/packages
+[1.878s] copying package.xml -> /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_assets/share/vehicle_assets
+[1.949s] Invoked command in '/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_assets' returned '0': PYTHONPATH=/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_assets/prefix_override:/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_assets/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_assets/build --no-deps install_data

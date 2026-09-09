@@ -1,0 +1,25 @@
+running develop
+running egg_info
+creating vehicle_bringup.egg-info
+writing vehicle_bringup.egg-info/PKG-INFO
+writing dependency_links to vehicle_bringup.egg-info/dependency_links.txt
+writing entry points to vehicle_bringup.egg-info/entry_points.txt
+writing requirements to vehicle_bringup.egg-info/requires.txt
+writing top-level names to vehicle_bringup.egg-info/top_level.txt
+writing manifest file 'vehicle_bringup.egg-info/SOURCES.txt'
+reading manifest file 'vehicle_bringup.egg-info/SOURCES.txt'
+writing manifest file 'vehicle_bringup.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_bringup/lib/python3.8/site-packages/site.py
+Creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_bringup/lib/python3.8/site-packages/vehicle-bringup.egg-link (link to .)
+error: can't copy 'config/ir_control_config.yaml': doesn't exist or not a regular file
+Installing ir_control script to /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_bringup/lib/vehicle_bringup
+
+Installed /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_bringup
+running install_data
+creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_bringup/share/ament_index
+creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_bringup/share/ament_index/resource_index
+creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_bringup/share/ament_index/resource_index/packages
+copying resource/vehicle_bringup -> /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_bringup/share/ament_index/resource_index/packages
+copying package.xml -> /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_bringup/share/vehicle_bringup
+creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_bringup/share/vehicle_bringup/config

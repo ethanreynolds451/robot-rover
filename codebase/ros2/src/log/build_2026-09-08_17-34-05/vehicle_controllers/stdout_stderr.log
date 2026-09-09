@@ -1,0 +1,26 @@
+running develop
+running egg_info
+creating vehicle_controllers.egg-info
+writing vehicle_controllers.egg-info/PKG-INFO
+writing dependency_links to vehicle_controllers.egg-info/dependency_links.txt
+writing entry points to vehicle_controllers.egg-info/entry_points.txt
+writing requirements to vehicle_controllers.egg-info/requires.txt
+writing top-level names to vehicle_controllers.egg-info/top_level.txt
+writing manifest file 'vehicle_controllers.egg-info/SOURCES.txt'
+reading manifest file 'vehicle_controllers.egg-info/SOURCES.txt'
+writing manifest file 'vehicle_controllers.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_controllers/lib/python3.8/site-packages/site.py
+Creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_controllers/lib/python3.8/site-packages/vehicle-controllers.egg-link (link to .)
+Installing ir_control script to /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_controllers/lib/vehicle_controllers
+
+Installed /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_controllers
+running install_data
+creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_controllers/share/ament_index
+creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_controllers/share/ament_index/resource_index
+creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_controllers/share/ament_index/resource_index/packages
+copying resource/vehicle_controllers -> /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_controllers/share/ament_index/resource_index/packages
+copying package.xml -> /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_controllers/share/vehicle_controllers
+creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_controllers/share/vehicle_controllers/config
+copying config/ir_commands.yaml -> /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_controllers/share/vehicle_controllers/config
+copying config/control_defaults.yaml -> /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_controllers/share/vehicle_controllers/config

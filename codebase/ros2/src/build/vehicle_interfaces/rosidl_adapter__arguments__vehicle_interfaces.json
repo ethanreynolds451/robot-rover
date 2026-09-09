@@ -1,0 +1,18 @@
+{
+  "package_name": "vehicle_interfaces",
+  "non_idl_tuples": [
+    "/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/vehicle_interfaces:srv/GetSerialPort.srv",
+    "/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/vehicle_interfaces:srv/ResetSerialPort.srv",
+    "/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/vehicle_interfaces:srv/GetSerialDeviceStatus.srv",
+    "/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/vehicle_interfaces:msg/SensorData.msg",
+    "/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/vehicle_interfaces:msg/ControlData.msg",
+    "/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/vehicle_interfaces:msg/EncoderData.msg",
+    "/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/vehicle_interfaces:msg/GPSData.msg",
+    "/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/vehicle_interfaces:msg/IRData.msg",
+    "/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/vehicle_interfaces:msg/MPUData.msg",
+    "/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/vehicle_interfaces:msg/QMCData.msg",
+    "/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/vehicle_interfaces:msg/TemperatureData.msg",
+    "/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/vehicle_interfaces:msg/ToFData.msg",
+    "/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/vehicle_interfaces:msg/UltrasonicData.msg"
+  ]
+}

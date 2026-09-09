@@ -1,0 +1,12 @@
+package.xml
+setup.cfg
+setup.py
+resource/vehicle_navigation
+vehicle_navigation/__init__.py
+vehicle_navigation.egg-info/PKG-INFO
+vehicle_navigation.egg-info/SOURCES.txt
+vehicle_navigation.egg-info/dependency_links.txt
+vehicle_navigation.egg-info/entry_points.txt
+vehicle_navigation.egg-info/requires.txt
+vehicle_navigation.egg-info/top_level.txt
+vehicle_navigation.egg-info/zip-safe

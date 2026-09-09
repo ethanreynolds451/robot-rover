@@ -1,0 +1,30 @@
+[1.758s] Invoking command in '/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_networking': PYTHONPATH=/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_networking/prefix_override:/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_networking/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_networking/build --no-deps install_data
+[1.934s] running develop
+[1.973s] running egg_info
+[1.974s] creating vehicle_networking.egg-info
+[1.974s] writing vehicle_networking.egg-info/PKG-INFO
+[1.974s] writing dependency_links to vehicle_networking.egg-info/dependency_links.txt
+[1.974s] writing entry points to vehicle_networking.egg-info/entry_points.txt
+[1.974s] writing requirements to vehicle_networking.egg-info/requires.txt
+[1.974s] writing top-level names to vehicle_networking.egg-info/top_level.txt
+[1.975s] writing manifest file 'vehicle_networking.egg-info/SOURCES.txt'
+[1.993s] reading manifest file 'vehicle_networking.egg-info/SOURCES.txt'
+[1.993s] writing manifest file 'vehicle_networking.egg-info/SOURCES.txt'
+[2.013s] running build_ext
+[2.014s] Creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_networking/lib/python3.8/site-packages/site.py
+[2.015s] Creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_networking/lib/python3.8/site-packages/vehicle-networking.egg-link (link to .)
+[2.015s] Installing control_serial_interface script to /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_networking/lib/vehicle_networking
+[2.015s] Installing get_device_info_tool script to /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_networking/lib/vehicle_networking
+[2.016s] Installing sensor_serial_interface script to /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_networking/lib/vehicle_networking
+[2.016s] Installing serial_manager script to /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_networking/lib/vehicle_networking
+[2.016s] 
+[2.016s] Installed /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_networking
+[2.016s] running install_data
+[2.016s] creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_networking/share/ament_index
+[2.016s] creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_networking/share/ament_index/resource_index
+[2.016s] creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_networking/share/ament_index/resource_index/packages
+[2.016s] copying resource/vehicle_networking -> /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_networking/share/ament_index/resource_index/packages
+[2.016s] copying package.xml -> /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_networking/share/vehicle_networking
+[2.016s] creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_networking/share/vehicle_networking/config
+[2.016s] copying config/device_identifiers.json -> /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_networking/share/vehicle_networking/config
+[2.047s] Invoked command in '/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_networking' returned '0': PYTHONPATH=/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_networking/prefix_override:/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_networking/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_networking/build --no-deps install_data

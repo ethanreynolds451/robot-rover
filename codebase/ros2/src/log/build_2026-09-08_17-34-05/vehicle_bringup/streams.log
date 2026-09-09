@@ -1,0 +1,27 @@
+[1.826s] Invoking command in '/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_bringup': PYTHONPATH=/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_bringup/prefix_override:/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_bringup/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_bringup/build --no-deps install_data
+[1.986s] running develop
+[2.033s] running egg_info
+[2.034s] creating vehicle_bringup.egg-info
+[2.034s] writing vehicle_bringup.egg-info/PKG-INFO
+[2.034s] writing dependency_links to vehicle_bringup.egg-info/dependency_links.txt
+[2.034s] writing entry points to vehicle_bringup.egg-info/entry_points.txt
+[2.034s] writing requirements to vehicle_bringup.egg-info/requires.txt
+[2.034s] writing top-level names to vehicle_bringup.egg-info/top_level.txt
+[2.034s] writing manifest file 'vehicle_bringup.egg-info/SOURCES.txt'
+[2.056s] reading manifest file 'vehicle_bringup.egg-info/SOURCES.txt'
+[2.057s] writing manifest file 'vehicle_bringup.egg-info/SOURCES.txt'
+[2.077s] running build_ext
+[2.077s] Creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_bringup/lib/python3.8/site-packages/site.py
+[2.079s] Creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_bringup/lib/python3.8/site-packages/vehicle-bringup.egg-link (link to .)
+[2.079s] error: can't copy 'config/ir_control_config.yaml': doesn't exist or not a regular file
+[2.080s] Installing ir_control script to /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_bringup/lib/vehicle_bringup
+[2.080s] 
+[2.080s] Installed /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_bringup
+[2.080s] running install_data
+[2.080s] creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_bringup/share/ament_index
+[2.080s] creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_bringup/share/ament_index/resource_index
+[2.080s] creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_bringup/share/ament_index/resource_index/packages
+[2.080s] copying resource/vehicle_bringup -> /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_bringup/share/ament_index/resource_index/packages
+[2.080s] copying package.xml -> /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_bringup/share/vehicle_bringup
+[2.080s] creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_bringup/share/vehicle_bringup/config
+[2.118s] Invoked command in '/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_bringup' returned '1': PYTHONPATH=/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_bringup/prefix_override:/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_bringup/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_bringup/build --no-deps install_data

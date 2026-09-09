@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+config/control_defaults.yaml
+config/ir_commands.yaml
+resource/vehicle_controllers
+vehicle_controllers/__init__.py
+vehicle_controllers/ir_control.py
+vehicle_controllers.egg-info/PKG-INFO
+vehicle_controllers.egg-info/SOURCES.txt
+vehicle_controllers.egg-info/dependency_links.txt
+vehicle_controllers.egg-info/entry_points.txt
+vehicle_controllers.egg-info/requires.txt
+vehicle_controllers.egg-info/top_level.txt
+vehicle_controllers.egg-info/zip-safe

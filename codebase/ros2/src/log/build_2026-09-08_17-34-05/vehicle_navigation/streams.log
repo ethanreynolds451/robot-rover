@@ -1,0 +1,24 @@
+[1.606s] Invoking command in '/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_navigation': PYTHONPATH=/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_navigation/prefix_override:/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_navigation/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_navigation/build --no-deps install_data
+[1.729s] running develop
+[1.768s] running egg_info
+[1.768s] creating vehicle_navigation.egg-info
+[1.768s] writing vehicle_navigation.egg-info/PKG-INFO
+[1.768s] writing dependency_links to vehicle_navigation.egg-info/dependency_links.txt
+[1.769s] writing entry points to vehicle_navigation.egg-info/entry_points.txt
+[1.769s] writing requirements to vehicle_navigation.egg-info/requires.txt
+[1.769s] writing top-level names to vehicle_navigation.egg-info/top_level.txt
+[1.769s] writing manifest file 'vehicle_navigation.egg-info/SOURCES.txt'
+[1.788s] reading manifest file 'vehicle_navigation.egg-info/SOURCES.txt'
+[1.789s] writing manifest file 'vehicle_navigation.egg-info/SOURCES.txt'
+[1.814s] running build_ext
+[1.814s] Creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_navigation/lib/python3.8/site-packages/site.py
+[1.815s] Creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_navigation/lib/python3.8/site-packages/vehicle-navigation.egg-link (link to .)
+[1.816s] 
+[1.816s] Installed /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_navigation
+[1.819s] running install_data
+[1.820s] creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_navigation/share/ament_index
+[1.820s] creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_navigation/share/ament_index/resource_index
+[1.820s] creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_navigation/share/ament_index/resource_index/packages
+[1.820s] copying resource/vehicle_navigation -> /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_navigation/share/ament_index/resource_index/packages
+[1.820s] copying package.xml -> /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_navigation/share/vehicle_navigation
+[1.866s] Invoked command in '/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_navigation' returned '0': PYTHONPATH=/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_navigation/prefix_override:/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_navigation/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_navigation/build --no-deps install_data

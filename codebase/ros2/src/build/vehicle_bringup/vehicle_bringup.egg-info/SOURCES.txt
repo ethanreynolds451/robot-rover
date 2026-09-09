@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+resource/vehicle_bringup
+vehicle_bringup/__init__.py
+vehicle_bringup/communications.py
+vehicle_bringup/ir_control.py
+vehicle_bringup.egg-info/PKG-INFO
+vehicle_bringup.egg-info/SOURCES.txt
+vehicle_bringup.egg-info/dependency_links.txt
+vehicle_bringup.egg-info/entry_points.txt
+vehicle_bringup.egg-info/requires.txt
+vehicle_bringup.egg-info/top_level.txt
+vehicle_bringup.egg-info/zip-safe

@@ -1,0 +1,1 @@
+Invoking command in '/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_interfaces': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/vehicle_interfaces -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_interfaces

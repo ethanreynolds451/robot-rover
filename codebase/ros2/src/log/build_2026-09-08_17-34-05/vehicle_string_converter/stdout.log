@@ -1,0 +1,32 @@
+running develop
+running egg_info
+creating vehicle_string_converter.egg-info
+writing vehicle_string_converter.egg-info/PKG-INFO
+writing dependency_links to vehicle_string_converter.egg-info/dependency_links.txt
+writing entry points to vehicle_string_converter.egg-info/entry_points.txt
+writing requirements to vehicle_string_converter.egg-info/requires.txt
+writing top-level names to vehicle_string_converter.egg-info/top_level.txt
+writing manifest file 'vehicle_string_converter.egg-info/SOURCES.txt'
+reading manifest file 'vehicle_string_converter.egg-info/SOURCES.txt'
+writing manifest file 'vehicle_string_converter.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_string_converter/lib/python3.8/site-packages/site.py
+Creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_string_converter/lib/python3.8/site-packages/vehicle-string-converter.egg-link (link to .)
+Installing control_string_builder script to /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_string_converter/lib/vehicle_string_converter
+Installing control_string_parser script to /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_string_converter/lib/vehicle_string_converter
+Installing sensor_string_parser script to /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_string_converter/lib/vehicle_string_converter
+
+Installed /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/build/vehicle_string_converter
+running install_data
+creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_string_converter/share/ament_index
+creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_string_converter/share/ament_index/resource_index
+creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_string_converter/share/ament_index/resource_index/packages
+copying resource/vehicle_string_converter -> /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_string_converter/share/ament_index/resource_index/packages
+copying package.xml -> /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_string_converter/share/vehicle_string_converter
+creating /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_string_converter/share/vehicle_string_converter/config
+copying config/sensor_names.yaml -> /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_string_converter/share/vehicle_string_converter/config
+copying config/sensor_encoding.yaml -> /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_string_converter/share/vehicle_string_converter/config
+copying config/control_codes.yaml -> /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_string_converter/share/vehicle_string_converter/config
+copying config/sensor_codes.yaml -> /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_string_converter/share/vehicle_string_converter/config
+copying config/delimiters.yaml -> /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_string_converter/share/vehicle_string_converter/config
+copying config/sensor_fields.yaml -> /home/ethanreynolds/github/robot-rover-2025/codebase/ros2/src/install/vehicle_string_converter/share/vehicle_string_converter/config
